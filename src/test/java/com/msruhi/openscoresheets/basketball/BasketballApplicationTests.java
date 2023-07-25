@@ -1,10 +1,10 @@
-package com.msruhi.openscoresheets;
+package com.msruhi.openscoresheets.basketball;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OpenScoreSheetsApplicationTests {
+class BasketballApplicationTests {
 
     @Test
     void contextLoads() {

@@ -1,13 +1,13 @@
-package com.msruhi.openscoresheets;
+package com.msruhi.openscoresheets.basketball;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OpenScoreSheetsApplication {
+public class BasketballApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(OpenScoreSheetsApplication.class, args);
+        SpringApplication.run(BasketballApplication.class, args);
     }
 
 }
